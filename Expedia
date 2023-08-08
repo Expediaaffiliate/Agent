@@ -1,0 +1,7 @@
+<script src="//xsell.expedia.com/xsell.js?param1=1&…&signature=…"></script>
+
+All the parameters must be URL-encoded[1]:
+
+e.g. 2014-01-02T11%3A55%3A00%2B08%3A00
+
+ 
